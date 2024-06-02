@@ -1,0 +1,23 @@
+# ninja log v6
+1	48	7390501809695187	json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	af3fa3b8038f0437
+1	48	7390501809695187	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir	af3fa3b8038f0437
+48	1128	7390501820495496	json-populate-prefix/src/json-populate-stamp/json-populate-download	64787042fa44244d
+48	1128	7390501820495496	json-populate-prefix/src/json.tar.xz	64787042fa44244d
+48	1128	7390501820495496	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download	64787042fa44244d
+48	1128	7390501820495496	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json.tar.xz	64787042fa44244d
+1133	1174	7390501820966743	json-populate-prefix/src/json-populate-stamp/json-populate-update	75c4c7f939f741ab
+1133	1174	7390501820966743	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update	75c4c7f939f741ab
+1174	1246	7390501821640830	json-populate-prefix/src/json-populate-stamp/json-populate-patch	58c701714eb0af74
+1174	1246	7390501821640830	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch	58c701714eb0af74
+1246	1300	7390501822203451	json-populate-prefix/src/json-populate-stamp/json-populate-configure	b93c9243fdbe412c
+1246	1300	7390501822203451	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure	b93c9243fdbe412c
+1300	2075	7390501824980089	json-populate-prefix/src/json-populate-stamp/json-populate-build	c255390740124af6
+1300	2075	7390501824980089	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build	c255390740124af6
+2075	2404	7390501830515507	json-populate-prefix/src/json-populate-stamp/json-populate-install	97c2290f3c3a02e3
+2075	2404	7390501830515507	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install	97c2290f3c3a02e3
+2404	2897	7390501838199679	json-populate-prefix/src/json-populate-stamp/json-populate-test	ca6575646f35846a
+2404	2897	7390501838199679	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test	ca6575646f35846a
+2897	2962	7390501838854052	CMakeFiles/json-populate-complete	7e914a2350f993a9
+2897	2962	7390501838854052	json-populate-prefix/src/json-populate-stamp/json-populate-done	7e914a2350f993a9
+2897	2962	7390501838854052	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/CMakeFiles/json-populate-complete	7e914a2350f993a9
+2897	2962	7390501838854052	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-done	7e914a2350f993a9

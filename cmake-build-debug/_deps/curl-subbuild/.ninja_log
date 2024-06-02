@@ -1,0 +1,23 @@
+# ninja log v6
+2	249	7390497818353214	curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	dda6ba7e19a02e5a
+250	5110	7390497862144928	curl-populate-prefix/src/curl-7.80.0.tar.xz	8104b7e0e3646dca
+5111	5642	7390497872239476	curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	4e958349691fd000
+2	249	7390497818353214	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-mkdir	dda6ba7e19a02e5a
+250	5110	7390497862144928	curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	8104b7e0e3646dca
+250	5110	7390497862144928	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-download	8104b7e0e3646dca
+250	5110	7390497862144928	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-7.80.0.tar.xz	8104b7e0e3646dca
+5111	5642	7390497872239476	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-update	4e958349691fd000
+5642	5724	7390497873251133	curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	d7160e88e0538a17
+6947	7221	7390497886896431	curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	fe8d0a84af5f2428
+5642	5724	7390497873251133	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-patch	d7160e88e0538a17
+7222	7341	7390497889414884	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/CMakeFiles/curl-populate-complete	64da2182536a8c6f
+5724	6112	7390497875714172	curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	7b370471cbc979de
+5724	6112	7390497875714172	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-configure	7b370471cbc979de
+6947	7221	7390497886896431	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-test	fe8d0a84af5f2428
+6112	6590	7390497881653998	curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	4a2fd5024ba3f9c7
+6112	6590	7390497881653998	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-build	4a2fd5024ba3f9c7
+6590	6947	7390497885400025	curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	caa2d28e9c1f85dc
+6590	6947	7390497885400025	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-install	caa2d28e9c1f85dc
+7222	7341	7390497889414884	CMakeFiles/curl-populate-complete	64da2182536a8c6f
+7222	7341	7390497889414884	curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	64da2182536a8c6f
+7222	7341	7390497889414884	C:/Users/atrem/CLionProjects/WeatherApiCpp/cmake-build-debug/_deps/curl-subbuild/curl-populate-prefix/src/curl-populate-stamp/curl-populate-done	64da2182536a8c6f
